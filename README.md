@@ -18,7 +18,7 @@ and business systems running reliably.
 
 ### About me
 
-I'm a backend engineer with 3+ years of professional experience
+I'm a backend engineer with 5 years of professional experience
 in fintech and enterprise integrations.
 
 My work spans Scala services, asynchronous processing, PostgreSQL,
